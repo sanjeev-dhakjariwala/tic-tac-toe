@@ -1,11 +1,7 @@
-
+import Game from './components/Game';
 
 function App() {
-  return (
-    <div className="App">
-        <h1>React App</h1>
-    </div>
-  );
+  return <Game />;
 }
 
 export default App;
